@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FoundAndLost</string>
+    <string name="lost">Lost</string>
+    <string name="found">Found</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="save">Save</string>
+
+    <string name="please_enter_username">Please enter a name</string>
+    <string name="enter_number">Please enter a mobile number</string>
+    <string name="enter_description">Please enter a description</string>
+    <string name="enter_date">Please enter a date</string>
+    <string name="enter_location">Please enter a location</string>
+    <string name="enter_valid_number">The mobile number must be 6 to 15 digits</string>
+    <string name="create_a_new_advert">Create a New Advert</string>
+    <string name="show_all_lost_and_found_items">Show All Lost and Found Items</string>
+    <string name="post_type">Post Type</string>
+    <string name="lost_found_items"><![CDATA[LOST & FOUND ITEMS]]></string>
+    <string name="remove">REMOVE</string>
+    <string name="no_data_found">No Data Found</string>
+</resources>
